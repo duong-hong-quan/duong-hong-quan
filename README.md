@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hong Quan</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A front-end developer from Vietnam </h3>
-<p align="center"> <img src="https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-1/296619557_1282529989151780_3539035959095418074_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=-V7wlkAg5VoAX-SdAeP&tn=9s2994sTqHnVxk4R&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT8QktHO_ncsFENlqaNRJ9rl343d0u6mniOqclNtbolKnQ&oe=63014937" alt="duong-hong-quan" /> </p>
+<p align="center"> <img src="https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-1/296619557_1282529989151780_3539035959095418074_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=-V7wlkAg5VoAX-SdAeP&tn=9s2994sTqHnVxk4R&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT8QktHO_ncsFENlqaNRJ9rl343d0u6mniOqclNtbolKnQ&oe=63014937" alt="duong-hong-quan" width="200px"/> 
+<p align="center"> <img src="https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/277587386_142312264997831_5770323846780362232_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=vbmOSZv0qOoAX848Rl1&tn=9s2994sTqHnVxk4R&_nc_ht=scontent.fsgn5-15.fna&oh=00_AT94vw1UVy-zldX8Sly7gf1ovRv02VVwdTKK_dD17yDpMw&oe=630260CF" alt="duong-hong-quan" width="200px" /> 
+</p>
 
 - ✍ I'm a student of: [FPT University](https://hcmuni.fpt.edu.vn/) (FPTU).
 

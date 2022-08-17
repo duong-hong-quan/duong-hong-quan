@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Hi 👋, I'm Hong Quans</h2>
+ <h2 align="center">Hi 👋, I'm Hong Quan</h2>
  <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
 src="https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

@@ -80,22 +80,21 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
   </tr>
 </table>
 
-> **Youth is a lie. It is nothing but evil.**
+> **---------------------**
 
-Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them. 
-ʕ •́؈•̀ ₎
-In the face of the word " **Youth**  ", they will twist any common interpretation or accepted notion out of recognition.
-
-In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
-
-If failure is truly the proof of one's youth...
-
-Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.
-
-My conclusion is this All you fools who delight in youth...
-
-> **Be Drop Dead.**
-
+I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.
+The candidate correctly highlights their areas of expertise, such as designing websites, networking and managing databases. It is clear from these examples that the individual has a broad understanding of IT and would be able to work on a wide range of IT projects.
+The candidate reassures the prospective employer that although they are working in a very technical field, they have the ability to work with a wide range of people. Interpersonal and communication skills are key to any job.
+> **---------------------**
+# Certificates:
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/FFWP9FDAM7YN">
+    <img alt="Computer Communications" title="Computer Communications" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FFWP9FDAM7YN/CERTIFICATE_LANDING_PAGE~FFWP9FDAM7YN.jpeg" width="300px" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/5RA4SXU9XTZ5">
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5RA4SXU9XTZ5/CERTIFICATE_LANDING_PAGE~5RA4SXU9XTZ5.jpeg" width="300px" />
+  </a>
+</p>
  ## Contribution Graph
   
 

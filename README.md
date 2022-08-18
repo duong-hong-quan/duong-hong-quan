@@ -1,9 +1,11 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+<p align="center"> <img src="https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-1/296619557_1282529989151780_3539035959095418074_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=-V7wlkAg5VoAX-SdAeP&tn=9s2994sTqHnVxk4R&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT8QktHO_ncsFENlqaNRJ9rl343d0u6mniOqclNtbolKnQ&oe=63014937" alt="duong-hong-quan" border-radius="50%"; border="2px solid #a1a1a1"; height="300px"; margin= "20px"; text-align="center"; width="300px";/> 
  <h2 align="center">Hi 👋, I'm Hong Quan</h2>
- <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
-src="https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ <p align="center">
+ <a href="https://www.github.com/duong-hong-quan" target="_blank" rel="noreferrer"><img
+src="https://visitor-counter-badge.vercel.app/api/duong-hong-quan" <a href="https://www.github.com/duong-hong-quan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"   /></a>
+ </p>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 <h1 align="center"></h1>
 </p>
@@ -30,9 +32,8 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
     </a>
   </p>
 <h3 align="center">A front-end developer from Vietnam </h3>
-<p align="center"> <img src="https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-1/296619557_1282529989151780_3539035959095418074_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=-V7wlkAg5VoAX-SdAeP&tn=9s2994sTqHnVxk4R&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT8QktHO_ncsFENlqaNRJ9rl343d0u6mniOqclNtbolKnQ&oe=63014937" alt="duong-hong-quan" width="200px"/> 
-<p align="center"> <img src="https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/277587386_142312264997831_5770323846780362232_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=vbmOSZv0qOoAX848Rl1&tn=9s2994sTqHnVxk4R&_nc_ht=scontent.fsgn5-15.fna&oh=00_AT94vw1UVy-zldX8Sly7gf1ovRv02VVwdTKK_dD17yDpMw&oe=630260CF" alt="duong-hong-quan" width="200px" /> 
-</p>
+
+
 
 - ✍ I'm a student of: [FPT University](https://hcmuni.fpt.edu.vn/) (FPTU).
 
@@ -48,7 +49,6 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 <a href="https://github.com/duong-hong-quan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>&nbsp;
 <a href="https://www.facebook.com/hongquan.contact/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duong-hong-quan&theme=dark&show_icons=true)
 
 ## Skills:
 <p align="center">

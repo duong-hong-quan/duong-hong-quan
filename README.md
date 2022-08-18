@@ -6,7 +6,7 @@
 src="https://visitor-counter-badge.vercel.app/api/duong-hong-quan" <a href="https://www.github.com/duong-hong-quan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"   /></a>
  </p>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ <p align="center">___________________________________</p>
 <h1 align="center"></h1>
 </p>
   <p align="center">

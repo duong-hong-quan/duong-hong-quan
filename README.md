@@ -1,10 +1,13 @@
-<p align="center">
+
 <p align="center"> <img src="https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-1/296619557_1282529989151780_3539035959095418074_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=-V7wlkAg5VoAX-SdAeP&tn=9s2994sTqHnVxk4R&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT8QktHO_ncsFENlqaNRJ9rl343d0u6mniOqclNtbolKnQ&oe=63014937" alt="duong-hong-quan" width="300px"/> 
+
  <h2 align="center">Hi 👋, I'm Hong Quan</h2>
  <p align="center">
  <a href="https://www.github.com/duong-hong-quan" target="_blank" rel="noreferrer"><img
 src="https://visitor-counter-badge.vercel.app/api/duong-hong-quan" <a href="https://www.github.com/duong-hong-quan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"   /></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=duong-hong-quan&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
+
  </p>
  <p align="center">___________________________________</p>
 <h1 align="center"></h1>
@@ -91,16 +94,12 @@ The candidate reassures the prospective employer that although they are working 
   <a href="https://www.coursera.org/account/accomplishments/specialization/FFWP9FDAM7YN">
     <img alt="Computer Communications" title="Computer Communications" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FFWP9FDAM7YN/CERTIFICATE_LANDING_PAGE~FFWP9FDAM7YN.jpeg" width="300px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/5RA4SXU9XTZ5">
-    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5RA4SXU9XTZ5/CERTIFICATE_LANDING_PAGE~5RA4SXU9XTZ5.jpeg" width="300px" />
-  </a>
-</p>
- ## Contribution Graph
-  
+  <a href="https://www.coursera.org/account/accomplishments/specialization/5RA4SXU9XTZ5"><img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5RA4SXU9XTZ5/CERTIFICATE_LANDING_PAGE~5RA4SXU9XTZ5.jpeg" width="300px" /></a>
+  </p>
 
+## Contribution Graph:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=duong-hong-quan&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
 
 

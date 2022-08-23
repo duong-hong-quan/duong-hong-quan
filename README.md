@@ -64,9 +64,13 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 
 > **---------------------**
 
-I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.
-The candidate correctly highlights their areas of expertise, such as designing websites, networking and managing databases. It is clear from these examples that the individual has a broad understanding of IT and would be able to work on a wide range of IT projects.
-The candidate reassures the prospective employer that although they are working in a very technical field, they have the ability to work with a wide range of people. Interpersonal and communication skills are key to any job.
+I am a talented, ambitious and hardworking individual, with broad skills and experience in Software Engineering and leading projects. Furthermore, I am adept at handling multiple tasks on a daily basis competently and at working well under pressure.
+
+A key strength is communication
+
+Building strong relationships with people in order to deliver the best results.
+
+Recently, I completed an Software Engineering degree at the FPT University and I am now fully employed by Clearly Presented as a Front-End Developer
 > **---------------------**
 # Certificates:
 <p align="center">

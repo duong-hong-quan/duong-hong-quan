@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-1/296619557_1282529989151780_3539035959095418074_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=-V7wlkAg5VoAX-SdAeP&tn=9s2994sTqHnVxk4R&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT8QktHO_ncsFENlqaNRJ9rl343d0u6mniOqclNtbolKnQ&oe=63014937" alt="duong-hong-quan" width="300px"/> 
+<p align="center"> <img src=https://avatars.githubusercontent.com/u/108501806?v=4" alt="duong-hong-quan" width="300px"/> 
 
  <h2 align="center">Hi 👋, I'm Hong Quan</h2>
  <p align="center">

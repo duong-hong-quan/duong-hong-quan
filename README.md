@@ -72,16 +72,7 @@ Building strong relationships with people in order to deliver the best results.
 
 Recently, I completed an Software Engineering degree at the FPT University and I am now fully employed by Clearly Presented as a Front-End Developer
 > **---------------------**
-# Certificates:
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/FFWP9FDAM7YN">
-    <img alt="Computer Communications" title="Computer Communications" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FFWP9FDAM7YN/CERTIFICATE_LANDING_PAGE~FFWP9FDAM7YN.jpeg" width="300px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/5RA4SXU9XTZ5"><img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5RA4SXU9XTZ5/CERTIFICATE_LANDING_PAGE~5RA4SXU9XTZ5.jpeg" width="300px" /></a>
-   <a href="https://www.coursera.org/account/accomplishments/specialization/V7TS55CS22PG">
-    <img alt="Web Design" title="Web Design" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V7TS55CS22PG/CERTIFICATE_LANDING_PAGE~V7TS55CS22PG.jpeg" width="300px" />
-  </a>
-  </p>
+
 
 ## Contribution Graph:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)

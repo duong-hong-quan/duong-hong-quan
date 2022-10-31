@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+ 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>

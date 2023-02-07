@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 
 - ✍ I'm a student of: [FPT University](https://hcmuni.fpt.edu.vn/) (FPTU).
 
-- 🌱 I’m currently learning **Front-End.**
+- 🌱 I’m currently learning **Back-End.**
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 

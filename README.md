@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 <h1 align="center"></h1>
 </p>
 
-<h3 align="center">A front-end developer from Vietnam </h3>
+<h3 align="center">A Back-End developer from Vietnam </h3>
 
 
 

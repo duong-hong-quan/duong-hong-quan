@@ -39,7 +39,6 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
 </p>
 
 <table style="width:100%;">
@@ -56,16 +55,7 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
   </tr>
 </table>
 
-> **---------------------**
 
-I am a talented, ambitious and hardworking individual, with broad skills and experience in Software Engineering and leading projects. Furthermore, I am adept at handling multiple tasks on a daily basis competently and at working well under pressure.
-
-A key strength is communication
-
-Building strong relationships with people in order to deliver the best results.
-
-Recently, I completed an Software Engineering degree at the FPT University and I am now fully employed by Clearly Presented as a Front-End Developer
-> **---------------------**
 
 
 ## Contribution Graph:

@@ -4,7 +4,7 @@
  <h2 align="center">Hi 👋, I'm Hong Quan</h2>
  <p align="center">
  <a href="https://www.github.com/duong-hong-quan" target="_blank" rel="noreferrer"><img
-src="https://visitor-counter-badge.vercel.app/api/duong-hong-quan" <a href="https://www.github.com/duong-hong-quan" target="_blank" rel="noreferrer"><img
+ src="https://visitor-counter-badge.vercel.app/api/duong-hong-quan" </a><a href="https://www.github.com/duong-hong-quan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"   /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=duong-hong-quan&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
 

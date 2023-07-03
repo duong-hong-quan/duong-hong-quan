@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ng-h%E1%BB%93ng-qu%C3%A2n-72953522a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="[https://www.linkedin.com/in/d%C6%B0%C6%A1ng-h%E1%BB%93ng-qu%C3%A2n-72953522a/](https://www.linkedin.com/in/hongquan0312/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:hongquan.contact@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://github.com/duong-hong-quan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>&nbsp;
 <a href="https://www.facebook.com/duonghongquan.contact/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;

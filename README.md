@@ -17,11 +17,11 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 <h3 align="center">A Back-End developer from Ho Chi Minh City, Viet Nam </h3>
 
 
+- ✍ I'm a junior full stack guy of: [NDN Group](https://ndngroup.com) (NDN Group).
 
 - ✍ I'm a student of: [FPT University](https://hcmuni.fpt.edu.vn/) (FPTU).
 
-- 🌱 I’m currently learning **Back-End.**
-
+- 🌱 My tech stack is : .NET Core, NestJS, NextJS, ReactJS
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
@@ -59,9 +59,6 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 
 
 
-## Contribution Graph:
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
 
 
 

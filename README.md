@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 <h3 align="center">A Back-End developer from Ho Chi Minh City, Viet Nam </h3>
 
 
-- ✍ I'm a junior full stack guy of: [YAS HONGKONG](https://yas.io/) (YAS HONGKONG).
+- ✍ I'm a junior full stack guy 
 
 - ✍ I'm a bachelor of: [FPT University](https://hcmuni.fpt.edu.vn/) (FPTU).
 

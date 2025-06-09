@@ -17,13 +17,13 @@ src="https://img.shields.io/github/followers/duong-hong-quan?logo=github&style=f
 <h3 align="center">A Back-End developer from Ho Chi Minh City, Viet Nam </h3>
 
 
-- ✍ I'm a junior full stack guy 
+- ✍ I'm full stack guy 
 
 - ✍ I'm a bachelor of: [FPT University](https://hcmuni.fpt.edu.vn/) (FPTU).
 
 - 🌱 My tech stack is : .NET Core, NestJS, NextJS, ReactJS
 
-- 🌱 Currently, i am learning to get master software engineering at FSB [FSB](https://fsb.edu.vn/)
+- 🌱 Currently, i am learning to get Master software engineering in AI at FSB [FSB](https://fsb.edu.vn/)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 

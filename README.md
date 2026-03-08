@@ -5,7 +5,7 @@
 <h1 align="center">Duong Hong Quan</h1>
 
 <p align="center">
-Team Leader @ TGL · Back-End Engineer · AI-Oriented Software Engineer  
+Project Manager @ TGL · Back-End Engineer · AI-Oriented Software Engineer  
 Ho Chi Minh City, Viet Nam
 </p>
 
@@ -13,7 +13,7 @@ Ho Chi Minh City, Viet Nam
 
 ## About
 
-I am a **Team Leader at TGL** with a strong background in **back-end engineering and system design**.  
+I am a **Project Manager at TGL** with a strong background in **back-end engineering and system design**.  
 My current focus is building **scalable, production-ready systems** and gradually integrating **AI-driven solutions** into real-world products.
 
 I value **clarity in architecture, reliability in delivery, and long-term team growth**.
